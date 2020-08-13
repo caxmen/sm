@@ -1,2 +1,0 @@
-# sm
-space x
